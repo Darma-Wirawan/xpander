@@ -22,16 +22,16 @@ bisa digunakan untuk produk isi pulsa , paket data dan game voucher.
 
 === *Informasi Teknis*
 
-<<civet/xpander-url.adoc#, Developer Onboarding>>
+<<xpander/xpander-url.adoc#, Developer Onboarding>>
 
-<<civet/xpander-technology.adoc#, Technology>>
+<<xpander/xpander-technology.adoc#, Technology>>
 
-<<civet/xpander-environment.adoc#, Environment>>
+<<xpander/xpander-environment.adoc#, Environment>>
 
 
 === *Onboarding Information*
 
-<<civet/xpander-dev-onboardig.adoc#, Developer Onboarding>>
+<<xpander/xpander-dev-onboardig.adoc#, Developer Onboarding>>
 
 
 === *Documentation*
@@ -39,3 +39,5 @@ bisa digunakan untuk produk isi pulsa , paket data dan game voucher.
 <<civet/xpander-katalog-proses.adoc#, Katalog Process>>
 
 User Guide
+
+<<xpander/adr-template/source_architecture_template.adoc#, Documen ADR>>
