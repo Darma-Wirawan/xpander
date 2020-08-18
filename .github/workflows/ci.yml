@@ -15,7 +15,7 @@ jobs:
       # - name: creates output
       #   run:  sh ./build.sh
       - name: Pushes to another repository
-        uses: rochmadnurdin/xpander@master
+        uses: rochmadnurdin/System@master
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
