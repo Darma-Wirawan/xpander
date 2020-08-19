@@ -2,7 +2,6 @@
 
 == Staging
 
-[cols=",",options="header",]
 |===
 |*Name* |*Spesification*
 |IP Address |103.117.207.40
@@ -15,7 +14,6 @@
 
 == Production
 
-[cols=",",options="header",]
 |===
 |*Name* |*Spesification*
 |IP Address |103.117.207.54
