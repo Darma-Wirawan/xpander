@@ -1,6 +1,6 @@
-== *Environment*
+= Environment
 
-=== Staging
+== Staging
 
 [cols=",",options="header",]
 |===
@@ -13,7 +13,7 @@
 |Git Branch |-
 |===
 
-=== Production
+== Production
 
 [cols=",",options="header",]
 |===
