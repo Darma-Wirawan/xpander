@@ -1,4 +1,4 @@
-= Markdown ADR Template
+= Ascii ADR Template
 
 
 == [ADR-0001] Example Decision
